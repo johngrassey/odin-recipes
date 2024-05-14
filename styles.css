@@ -1,0 +1,17 @@
+* {
+    color: midnightblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+    color: green
+}
+
+li {
+    background-color: cyan;
+}
+
+.small {
+    font-size: 8px;
+}
