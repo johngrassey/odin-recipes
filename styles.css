@@ -5,13 +5,15 @@
 
 h1 {
     font-weight: bold;
-    color: green
+    color: green;
+    text-align: center;
 }
 
-li {
-    background-color: cyan;
+.section {
+    padding: 25px;
+    background-color: lightblue;
 }
 
-.small {
-    font-size: 8px;
+body {
+    background-color: whitesmoke;
 }
